@@ -1,0 +1,1 @@
+export const GET_USERS = `https://api.github.com/orgs/mozilla/members?page=#{page}`
